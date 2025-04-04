@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Barista",
+    "description": "Serve coffee and snacks in a cozy cafe.",
+    "category": "Hospitality",
+    "location": "Downtown",
+    "reward": 15.0,
+    "contact": "email.com"
+  },
+  {
+    "id": 2,
+    "title": "Delivery Driver",
+    "description": "Deliver food orders around the city.",
+    "category": "Logistics",
+    "location": "Uptown",
+    "reward": 12.5,
+    "contact":"bmail.com"
+  },
+  {
+    "id": 3,
+    "title": "Retail Assistant",
+    "description": "Assist customers and manage inventory.",
+    "category": "Retail",
+    "location": "City Center",
+    "reward": 10.0,
+    "contact":"cmail.com"
+  }
+]
